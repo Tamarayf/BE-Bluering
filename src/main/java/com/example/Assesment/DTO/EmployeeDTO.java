@@ -12,5 +12,5 @@ public class EmployeeDTO {
     private String empAddress;
     private Integer departmentId;
     private String departmentName;
-    List<ExpenseTypeDTO> expenseTypeDTOList;
+//    List<ExpenseTypeDTO> expenseTypeDTOList;
 }
